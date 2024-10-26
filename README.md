@@ -1,4 +1,6 @@
-# Development of this version has already ended
+# Development of this version has ended
+→ https://github.com/ideanoteapp/citronote
+
 ----
 
 <div align="center">
